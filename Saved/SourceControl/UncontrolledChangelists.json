@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"G:/Storage/Unreal Projects/HackSlashPrototype/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Workshop/Documents/Unreal Projects/HackSlashPrototype/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Workshop/Documents/Unreal Projects/HackSlashPrototype/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/S9/VNDHFSMWOWX9H4AOCKQWX5.uasset",
+				"C:/Users/Workshop/Documents/Unreal Projects/HackSlashPrototype/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/1Z/URG54FP6GF96478K9KP532.uasset",
+				"C:/Users/Workshop/Documents/Unreal Projects/HackSlashPrototype/Content/MSPresets/M_MS_Default_Material/M_MS_Default_Material.uasset",
+				"C:/Users/Workshop/Documents/Unreal Projects/HackSlashPrototype/Content/Megascans/3D_Assets/Sword_uitlbiaga/S_Sword_uitlbiaga_lod3_Var1.uasset",
+				"C:/Users/Workshop/Documents/Unreal Projects/HackSlashPrototype/Content/Megascans/3D_Assets/Sword_uitlbiaga/MI_Sword_uitlbiaga_2K.uasset",
+				"C:/Users/Workshop/Documents/Unreal Projects/HackSlashPrototype/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Workshop/Documents/Unreal Projects/HackSlashPrototype/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/7B/ASL0X0O2E6E9EH9NCF0SJR.uasset"
+			]
+		}
+	]
+}
